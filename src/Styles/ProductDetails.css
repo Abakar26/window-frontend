@@ -1,0 +1,87 @@
+.default_padding {
+  padding: 0.8rem 0.8rem;
+}
+
+.product_title_style {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #808080;
+  line-height: 1.313rem;
+}
+
+.product_category_style {
+  font-size: 1.938rem;
+  line-height: 2.313rem;
+  font-weight: 500;
+}
+
+.product_price_style {
+  color: #808080;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.color_style {
+  color: #808080;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.buy_now_btn_style {
+  background-color: #9C0E43;
+  border-radius: 8px;
+  color: white;
+  height: 4rem;
+}
+
+.bookmark_bottom_radius {
+  border-radius: 8px 8px 0px 0px;
+}
+
+.btn_text_style {
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.img_stats {
+  height: 36rem;
+  width: 100%;
+  object-fit: contain;
+}
+
+.product_color_bubble {
+  border: 0.125rem solid #C4C4C4;
+  border-radius: 1.188rem;
+  height: 1.625rem;
+  max-height: 1.625rem;
+  min-height: 1.625rem;
+  min-width: 1.625rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.125rem;
+  width: fit-content;
+}
+
+.product_inner_bubble {
+  border-radius: 0.938rem;
+  height: 1.25rem;
+  width: 1.25rem;
+}
+
+.suggestion_div {
+  line-height: 0.9;
+}
+
+.size_suggestions_mobile {
+  font-size: 0.625rem;
+  color: #28A33F;
+  font-weight: 500;
+  position: relative;
+}
+
+.suggestion_info_icon {
+  position: absolute;
+  right: -14px;
+  bottom: 0px;
+}

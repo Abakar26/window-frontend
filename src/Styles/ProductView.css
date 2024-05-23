@@ -1,0 +1,15 @@
+.main_div {
+  width: 72%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+}
+
+.related_products {
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.313rem;
+  color: #808080;
+  margin-top: 1.125rem;
+}
